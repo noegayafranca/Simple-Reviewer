@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Reviewer v.3\Reviewer v.3\bin\Debug\Reviewer v.3.exe.config
+C:\Users\Admin\Desktop\Reviewer v.3\Reviewer v.3\bin\Debug\Reviewer v.3.exe
+C:\Users\Admin\Desktop\Reviewer v.3\Reviewer v.3\bin\Debug\Reviewer v.3.pdb
+C:\Users\Admin\Desktop\Reviewer v.3\Reviewer v.3\obj\Debug\Reviewer v.3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Reviewer v.3\Reviewer v.3\obj\Debug\Reviewer_v._3.Form1.resources
+C:\Users\Admin\Desktop\Reviewer v.3\Reviewer v.3\obj\Debug\Reviewer_v._3.Properties.Resources.resources
+C:\Users\Admin\Desktop\Reviewer v.3\Reviewer v.3\obj\Debug\Reviewer v.3.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Reviewer v.3\Reviewer v.3\obj\Debug\Reviewer v.3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Reviewer v.3\Reviewer v.3\obj\Debug\Reviewer v.3.exe
+C:\Users\Admin\Desktop\Reviewer v.3\Reviewer v.3\obj\Debug\Reviewer v.3.pdb
